@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1293154064
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: location.asset
+      Dependencies: {}
+    Info_1:
+      Name: avatar.asset
+      Dependencies: {}
+    Info_2:
+      Name: player.asset
+      Dependencies: {}
+    Info_3:
+      Name: minigames1.asset
+      Dependencies:
+        Dependency_0: minigames2.asset
+    Info_4:
+      Name: event.asset
+      Dependencies: {}
+    Info_5:
+      Name: minigames2.asset
+      Dependencies: {}
+    Info_6:
+      Name: intelligence.asset
+      Dependencies: {}
+    Info_7:
+      Name: minigames3.asset
+      Dependencies: {}
