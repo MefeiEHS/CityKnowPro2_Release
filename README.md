@@ -18,10 +18,10 @@ además de los archivos,
 **Nota:** el archivo version.json será el encargado de gestionar las versiones de despliegue
 
 ### Paso 1: Desplegar el sistema de información de CITY KNOW PRO en el microservidor
-Para descargar la información de este repositorio en el I3LAP, es necesario realizar la descarga y despliegue del sistema de informacion, que se encuentra en: **https://github.com/cityi3lap/CityKnowPro2_SI**
+Para descargar la información de este repositorio en el I3LAP, es necesario realizar la descarga y despliegue del sistema de información, que se encuentra en: **https://github.com/cityi3lap/CityKnowPro2_SI**
 
 ### Paso 2: Desplegar el Videojuego
-Despues de tener desplegado el sistema de información, Se importan los archivos de la siguiente forma:
+Despues de tener desplegado el sistema de información, se importan los archivos de la siguiente forma:
 
 -   Los archivos son importados en **/var/www/html/city/game/**
 
