@@ -25,7 +25,7 @@ Despues de tener desplegado el sistema de información, se importan los archivos
 
 -   Los archivos son importados en **/var/www/html/city/game/**
 
-Es decir, que los archivos (index.html, Build/, version.json, etc) estan ligados a la carpeta creada en el sistema de información (city/). 
+Es decir, que los archivos (index.html, Build/, version.json, etc) están ligados a la carpeta creada en el sistema de información (city/). 
 
 ## ACTUALIZACIÓN
 Para realizar los procesos de actualización, es necesario verificar el archivo:
