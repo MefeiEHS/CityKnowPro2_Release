@@ -1,0 +1,236 @@
+ManifestFileVersion: 0
+CRC: 2080983382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2de747d5ea06ee5b5900b9ef473033ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ec3394c269272d4c49a1d53a6d855e2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 093d8d6245e39e64dbd48d45cc3c40c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dba4f44b0fb5b0478ae4ead4326c5f5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Minigames/signLanguage/perro@Sign.PNG
+- Assets/Resources/Minigames/Background/G0LG02@Background4.png
+- Assets/Resources/Minigames/Background/G3NT01@Background.png
+- Assets/Resources/Minigames/Background/G1NT01@Background3.png
+- Assets/Resources/Minigames/Background/G8LG02@Background.png
+- Assets/Resources/Minigames/Background/G9NT01@Background.png
+- Assets/Resources/Minigames/Background/G2LG02@Background.png
+- Assets/Resources/Minigames/Background/G3MT01@Background.png
+- Assets/Resources/Minigames/Background/G8MT01@Background.png
+- Assets/Resources/Minigames/Background/G8NT01_2@background.png
+- Assets/Resources/Minigames/Background/P2-RESTA-G1MT.png
+- Assets/Resources/Minigames/TexturesLSC/LSC1@Texture.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@8.prefab
+- Assets/Resources/Minigames/Background/G6CS01@Background.png
+- Assets/Resources/Minigames/Background/G1MT04@Background.png
+- Assets/Resources/Minigames/Background/G6NT01-1@background.png
+- Assets/Resources/Minigames/Background/G2MT03_2.png
+- Assets/Resources/Minigames/Background/G4MT01@Background.png
+- Assets/Resources/Minigames/Background/G8NT01_4@background.png
+- Assets/Resources/Minigames/Background/G7CS02@Background.png
+- Assets/Resources/Minigames/Background/G5MT02@Background.png
+- Assets/Resources/Minigames/Background/G1NT01@Background.png
+- Assets/Resources/Minigames/Background/G7CS01@Background_4.png
+- Assets/Resources/Minigames/Background/P1-SUMA-G1MT.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@6.prefab
+- Assets/Resources/Minigames/Background/G7CS02@Background_3.png
+- Assets/Resources/Minigames/Background/G0CS01@Background2.png
+- Assets/Resources/Minigames/Background/G8IG01@Background.png
+- Assets/Resources/Minigames/Background/G3MT02@Background.png
+- Assets/Resources/Minigames/Background/G5MT01@Background.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@9.prefab
+- Assets/Resources/Minigames/Background/G7IG01@Background.png
+- Assets/Resources/Minigames/Background/G4IG01@Background.png
+- Assets/Resources/Minigames/Parrafos/Parrafo-01.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@6.prefab
+- Assets/Resources/Minigames/Background/G2CS01@Background_1.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@10.prefab
+- Assets/Resources/Minigames/Background/G3LG02@Background.png
+- Assets/Resources/Minigames/Background/G3LG03@Background.png
+- Assets/Resources/Minigames/Background/G6NT01_5@background.png
+- Assets/Resources/Minigames/Background/G0IG02@Background.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@5.prefab
+- Assets/Resources/Minigames/Background/G6NT01_4@background.png
+- Assets/Resources/Minigames/TexturesLSC/LSC7@Texture.png
+- Assets/Resources/Minigames/Background/G4CS01@Background_03.png
+- Assets/Resources/Minigames/Background/G2LG03@Background.png
+- Assets/Resources/Minigames/Background/G1IG02@Background.png
+- Assets/Resources/Minigames/Background/G7CS02@Background_2.png
+- Assets/Resources/Minigames/Background/G5LG02@background.png
+- Assets/Resources/Minigames/Background/G6NT01_3@background.png
+- Assets/Resources/Minigames/Background/G3CS01@Background.png
+- Assets/Resources/Minigames/Background/G0IG03@Background.png
+- Assets/Resources/Minigames/Background/G0NT01@Background.png
+- Assets/Resources/Minigames/Background/G4CS01@Background_02.png
+- Assets/Resources/Minigames/Background/G7CS01@Background_3.png
+- Assets/Resources/Minigames/signLanguage/gallina@Sign.PNG
+- Assets/Resources/Minigames/Background/G8NT01@background.png
+- Assets/Resources/Minigames/Background/G9BL01@BACKGROUND.png
+- Assets/Resources/Minigames/Background/G3MT03@Background.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@1.prefab
+- Assets/Resources/Minigames/Background/G6NT01-4@background.png
+- Assets/Resources/Minigames/Background/G2LG01@Background.png
+- Assets/Resources/Minigames/Background/G2MT02@Background.png
+- Assets/Resources/Minigames/Background/G8NT01-2@background.png
+- Assets/Resources/Minigames/Background/G3MT04@Background.png
+- Assets/Resources/Minigames/Background/G1LG02@Background.png
+- Assets/Resources/Minigames/Background/G0MT02@Background.png
+- Assets/Resources/Minigames/Background/G1IG01@Background.png
+- Assets/Resources/Minigames/Background/G7MT02@Background.png
+- Assets/Resources/Minigames/signLanguage/caballo@Sign.PNG
+- Assets/Resources/Minigames/Background/G2MT01@Background.png
+- Assets/Resources/Minigames/Background/G1CN01@Background3.png
+- Assets/Resources/Minigames/signLanguage/vaca@Sign.PNG
+- Assets/Resources/Minigames/Background/G7MT01@Background.png
+- Assets/Resources/Minigames/Background/G6MT01@Background.png
+- Assets/Resources/Minigames/TexturesLSC/LSC3@Texture.png
+- Assets/Resources/Minigames/Parrafos/Parrafo-02.png
+- Assets/Resources/Minigames/Background/G7CS01@Background_2.png
+- Assets/Resources/Minigames/Background/G0CS12@background (1).png
+- Assets/Resources/Minigames/Background/G5CS01@Background.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@4.prefab
+- Assets/Resources/Minigames/Background/G0CS12@background (2).png
+- Assets/Resources/Minigames/signLanguage/gallo@Sign.PNG
+- Assets/Resources/Minigames/Background/G5NT01@Background.png
+- Assets/Resources/Minigames/Background/G1NT01@Background2.png
+- Assets/Resources/Minigames/TexturesLSC/LSC2@Texture.png
+- Assets/Resources/Minigames/Background/G7CS03@Background_2.png
+- Assets/Resources/Minigames/Background/G8MT02@Background.png
+- Assets/Resources/Minigames/TexturesLSC/LSC6@Texture.png
+- Assets/Resources/Minigames/Background/G9MT01@Background.png
+- Assets/Resources/Minigames/Background/G1BL01@Background.png
+- Assets/Resources/Minigames/Background/G6CS04_2.png
+- Assets/Resources/Minigames/Background/G6CS04.png
+- Assets/Resources/Minigames/Background/G2MT03@Background2.png
+- Assets/Resources/Minigames/TexturesLSC/LSC10@Texture.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@3.prefab
+- Assets/Resources/Minigames/Parrafos/Parrafo-04.png
+- Assets/Resources/Minigames/Background/G0IG01@Background.png
+- Assets/Resources/Minigames/Background/G6NT01-2@background.png
+- Assets/Resources/Minigames/Background/G4NT01@Background.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@3.prefab
+- Assets/Resources/Minigames/Background/G1LG01@Background.png
+- Assets/Resources/Minigames/Background/G2IG03@Background.png
+- Assets/Resources/Minigames/Background/G2CS01@Backgoround_01.png
+- Assets/Resources/Minigames/Background/G4MT03@Background.png
+- Assets/Resources/Minigames/Background/G1MT01@Background.png
+- Assets/Resources/Minigames/Background/G1CN01@Background2.png
+- Assets/Resources/Minigames/Background/G4MT02@Background.png
+- Assets/Resources/Minigames/signLanguage/toro@Sign.PNG
+- Assets/Resources/Minigames/Background/G9LG01@Background.png
+- Assets/Resources/Minigames/Background/G7NT01@background.png
+- Assets/Resources/Minigames/Background/G3IG02@Background.png
+- Assets/Resources/Minigames/Background/G9SC01@background01.png
+- Assets/Resources/Minigames/Minigame@Square.png
+- Assets/Resources/Minigames/Background/G0NT01.png
+- Assets/Resources/Minigames/Background/G0MT03@Background.png
+- Assets/Resources/Minigames/Background/G1CS01@Background.png
+- Assets/Resources/Minigames/Background/G8NT01-4@background.png
+- Assets/Resources/Minigames/Background/G7CS03@Background.png
+- Assets/Resources/Minigames/Background/G8NT01_5@background.png
+- Assets/Resources/Minigames/signLanguage/gato@Sign.PNG
+- Assets/Resources/Minigames/Background/G4CS01@Background_04.png
+- Assets/Resources/Minigames/Background/G9MT02@Background.png
+- Assets/Resources/Minigames/Background/G4LG02@Background.png
+- Assets/Resources/Minigames/Background/G1CN01@Background.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@5.prefab
+- Assets/Resources/Minigames/Background/G9IG01@Background.png
+- Assets/Resources/Minigames/Background/G0LG03@Background.png
+- Assets/Resources/Minigames/Background/G5LG01@Background.png
+- Assets/Resources/Minigames/Background/Escuela@Background.png
+- Assets/Resources/Minigames/Background/G8NT01_3@background.png
+- Assets/Resources/Minigames/Background/EVALUCION@BACKGROUND_3.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@2.prefab
+- Assets/Resources/Minigames/Background/G6CS02@Background.png
+- Assets/Resources/Minigames/signLanguage/cerdo@Sign.PNG
+- Assets/Resources/Minigames/Background/G4CS01@Background_01.png
+- Assets/Resources/Minigames/Background/G1LG03@Background.png
+- Assets/Resources/Minigames/Background/G1MT03@Background.png
+- Assets/Resources/Minigames/Background/G8CS01@Background.png
+- Assets/Resources/Minigames/Background/G8BL01@BACKGROUND.png
+- Assets/Resources/Minigames/Background/G7CS01@Background.png
+- Assets/Resources/Minigames/Background/G4MT03d.png
+- Assets/Resources/Minigames/TexturesLSC/LSC4@Texture.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@8.prefab
+- Assets/Resources/Minigames/Background/G8NT01-5@background.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@10.prefab
+- Assets/Resources/Minigames/Minigame@SquareWhite.png
+- Assets/Resources/Minigames/Background/G3LG01@Background.png
+- Assets/Resources/Minigames/Background/G6LG02@Background.png
+- Assets/Resources/Minigames/Background/G8LG01@Background.png
+- Assets/Resources/Minigames/Background/G4NT01-Fondo-1.png
+- Assets/Resources/Minigames/Background/G0MT01@Background.png
+- Assets/Resources/Minigames/Background/G6CS03@Background.png
+- Assets/Resources/Minigames/Background/Madera@background.png
+- Assets/Resources/Minigames/Background/G6LG01@Background.png
+- Assets/Resources/Minigames/Background/G2NT01@Background.png
+- Assets/Resources/Minigames/Background/G2IG01@Background.png
+- Assets/Resources/Minigames/Background/G0LG02@Background2.png
+- Assets/Resources/Minigames/Parrafos/Parrafo-03.png
+- Assets/Resources/Minigames/Background/G2IG02@Background.png
+- Assets/Resources/Minigames/Background/G5IG02@Background.png
+- Assets/Resources/Minigames/Background/G0LG02@Background5.png
+- Assets/Resources/Minigames/Background/G7LG01@Background.png
+- Assets/Resources/Minigames/Background/G0LG01@Background.png
+- Assets/Resources/Minigames/Background/G6NT01@background.png
+- Assets/Resources/Minigames/TexturesLSC/LSC5@Texture.png
+- Assets/Resources/Minigames/Prefabs/EmptyCake@7.prefab
+- Assets/Resources/Minigames/Background/G0BL01@Background.png
+- Assets/Resources/Minigames/Background/G0LG02@Background.png
+- Assets/Resources/Minigames/Background/G2CS01@Background.png
+- Assets/Resources/Minigames/TexturesLSC/LSC8@Texture.png
+- Assets/Resources/Minigames/Background/G1IG03@Background.png
+- Assets/Resources/Minigames/Background/G6NT01-5@background.png
+- Assets/Resources/Minigames/Background/G6NT01_2@background.png
+- Assets/Resources/Minigames/Background/G6IG01@BACKGROUND.png
+- Assets/Resources/Minigames/TexturesLSC/LSC9@Texture.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@9.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@1.prefab
+- Assets/Resources/Minigames/Background/G1MT02@Background.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@4.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@2.prefab
+- Assets/Resources/Minigames/Background/G2MT03@Background.png
+- Assets/Resources/Minigames/Background/G0LG02@Background3.png
+- Assets/Resources/Minigames/Background/G0MT04@Background.png
+- Assets/Resources/Minigames/Background/G6NT01_1@background.png
+- Assets/Resources/Minigames/Prefabs/RoundCake@7.prefab
+- Assets/Resources/Minigames/Background/G2MT03_1.png
+- Assets/Resources/Minigames/Background/G6NT01-3@background.png
+- Assets/Resources/Minigames/Background/InglesViejoRestaurante@Background.png
+- Assets/Resources/Minigames/Background/G4LG01@Background.png
+- Assets/Resources/Minigames/signLanguage/pollito@Sign.PNG
+- Assets/Resources/Minigames/Background/G8NT01-3@background.png
+Dependencies:
+- D:/Projects/Repo/CityKnowPro2/AssetBundles/WebGL/minigames2.asset
